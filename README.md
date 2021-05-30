@@ -1,6 +1,6 @@
 # google_maps
 
-A new Flutter project.
+Playing around with google maps SDK for chicago crime app
 
 ## Getting Started
 
